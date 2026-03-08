@@ -1,0 +1,22 @@
+# Configuração do diretório remoto
+DIR_REMOTO = https://github.com/arataca89/minishell/tree/main
+
+ast.c
+builtins.c
+builtins_env.c
+builtins_nav.c
+executor_utils.c
+expansion.c
+expansion_utils.c
+files_to_upload.txt
+lexer.c
+lexer_utils.c
+main.c
+minishell.h
+parser.c
+parser_utils.c
+prompt.c
+shell.c
+utils.c
+
+
